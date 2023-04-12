@@ -1,0 +1,27 @@
+h1  {
+	font: oblique bold 220% cursive;
+ color: red;
+}
+p{
+	color: rgb(235, 14, 184);
+}
+h3{
+	color: orange;
+}
+
+a :link {
+	color: rgb(234, 18, 15);
+}
+
+a :visited {
+	color: green;
+}
+
+a :hover {
+	 color: hotpink;
+}
+
+a :active {
+	color: blue;
+}
+
